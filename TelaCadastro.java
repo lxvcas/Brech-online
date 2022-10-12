@@ -199,7 +199,7 @@ public class TelaCadastro extends javax.swing.JFrame {
           
           anuncio = RadioButtonSim.getText();
           
-          System.out.println("Meu email é: " + email);
+          System.out.println("Meu email prdutosé: " + email);
           System.out.println("Minha senha é: " + senha);
           if(RadioButtonSim.isSelected()){
 //              anuncio = "Quero receber ofertas e novidades!";
